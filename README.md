@@ -5,3 +5,6 @@ Ranking and selecting the optimal option for a cycling route using the TOPSIS me
 
 ![Capture](https://github.com/user-attachments/assets/4cc9e018-ca3c-47d3-b6b3-acabaebf7661)
 
+Result:
+
+![2](https://github.com/user-attachments/assets/e9d7fa33-54ad-4119-8fc6-59bd46170235)
